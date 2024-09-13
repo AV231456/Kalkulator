@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\192.168.3.250\\Veda\\3 курс\\ИСП 33-9, ИСП 34-11\\МДК 03.01\\Каримов Каймов\\Полная\\VlaKar\\VlaKar\\VlaKar.csproj": {}
+    "\\\\192.168.3.250\\Veda\\3 курс\\ИСП 33-9, ИСП 34-11\\МДК 03.01\\Каримов Каймов\\kal\\Полная\\VlaKar\\VlaKar\\VlaKar.csproj": {}
   },
   "projects": {
-    "\\\\192.168.3.250\\Veda\\3 курс\\ИСП 33-9, ИСП 34-11\\МДК 03.01\\Каримов Каймов\\Полная\\VlaKar\\VlaKar\\VlaKar.csproj": {
+    "\\\\192.168.3.250\\Veda\\3 курс\\ИСП 33-9, ИСП 34-11\\МДК 03.01\\Каримов Каймов\\kal\\Полная\\VlaKar\\VlaKar\\VlaKar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\192.168.3.250\\Veda\\3 курс\\ИСП 33-9, ИСП 34-11\\МДК 03.01\\Каримов Каймов\\Полная\\VlaKar\\VlaKar\\VlaKar.csproj",
+        "projectUniqueName": "\\\\192.168.3.250\\Veda\\3 курс\\ИСП 33-9, ИСП 34-11\\МДК 03.01\\Каримов Каймов\\kal\\Полная\\VlaKar\\VlaKar\\VlaKar.csproj",
         "projectName": "VlaKar",
-        "projectPath": "\\\\192.168.3.250\\Veda\\3 курс\\ИСП 33-9, ИСП 34-11\\МДК 03.01\\Каримов Каймов\\Полная\\VlaKar\\VlaKar\\VlaKar.csproj",
+        "projectPath": "\\\\192.168.3.250\\Veda\\3 курс\\ИСП 33-9, ИСП 34-11\\МДК 03.01\\Каримов Каймов\\kal\\Полная\\VlaKar\\VlaKar\\VlaKar.csproj",
         "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-        "outputPath": "\\\\192.168.3.250\\Veda\\3 курс\\ИСП 33-9, ИСП 34-11\\МДК 03.01\\Каримов Каймов\\Полная\\VlaKar\\VlaKar\\obj\\",
+        "outputPath": "\\\\192.168.3.250\\Veda\\3 курс\\ИСП 33-9, ИСП 34-11\\МДК 03.01\\Каримов Каймов\\kal\\Полная\\VlaKar\\VlaKar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
